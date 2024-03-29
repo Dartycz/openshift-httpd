@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+  color: #0093af;
+}
+
+header {
+  background-color: #4F87A3;
+  color: #ffffff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+p {
+  font-size: 16px;
+}
